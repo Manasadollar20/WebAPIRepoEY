@@ -15,5 +15,7 @@ namespace WebAppGitCommands
         public string Conclusion3 {get; set;}
 
         public string Conclusion4 { get; set;}
+
+        public string Conclusion5 {get; set;}
     }
 }
